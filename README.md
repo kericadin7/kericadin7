@@ -5,11 +5,10 @@ I'm Adin, a software engineering student from Bosnia and Herzegovina.
 I mostly focus on frontend development and UI/UX design.
 Besides development, I also enjoy creative work such as video editing and graphics design.
 
-This is a profile where I will be uploading some of my projects, templates, experiments, and other things I'm currently working on.
+This is a profile where I will upload some of my projects, templates, experiments, and other things I'm currently working on.
 
-I’m currently improving my knowledge in C++, C#, and JavaScript for my faculty.
+I’m currently improving my knowledge in C++, C#, and JavaScript as part of my studies.
 ____________________________________________________________________________________________________________________________________
-
 ## Tools I Use
 - HTML, CSS, JavaScript
 - Figma, Photoshop
