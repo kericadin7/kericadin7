@@ -9,7 +9,7 @@ This is a profile where I will upload some of my projects, templates, experiment
 
 I’m currently improving my knowledge in C++, C#, and JavaScript as part of my studies.
 ____________________________________________________________________________________________________________________________________
-## Tools I Use
+## 🛠 Tools I Use
 - HTML, CSS, JavaScript
 - Figma, Photoshop
 - Premiere Pro, After Effects, DaVinci Resolve
