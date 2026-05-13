@@ -8,7 +8,7 @@ Besides development, I also enjoy creative work such as video editing and graphi
 This is a profile where I will upload some of my projects, templates, experiments, and other things I'm currently working on.
 ____________________________________________________________________________________________________________________________________
 ## 🛠 Tools I Use
-- HTML, CSS, JavaScript
+- HTML, CSS, JavaScript, React
 - Figma, Photoshop
 - Premiere Pro, After Effects, DaVinci Resolve
 
